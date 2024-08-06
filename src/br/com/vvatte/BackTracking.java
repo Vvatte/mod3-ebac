@@ -39,7 +39,7 @@ public class BackTracking {
         }
 
         int[] elementos2 = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        int n2 = 5;
+        int n2 = 2;
 
         List<List<Integer>> subconjuntos2 = gerarSubconjuntos(elementos2, n2);
 
